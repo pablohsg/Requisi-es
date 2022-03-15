@@ -1,7 +1,7 @@
 [ 
-  {"nome":"Iphone x","preco":2500,"quantidade":80},
-  {"nome":"Iphone xs","preco":3300,"quantidade":50},
-  {"nome":"Iphone 8","preco":2200,"quantidade":40},
-  {"nome":"Iphone 7","preco":2300,"quantidade":30},
-  {"nome":"Iphone x plus 64gb","preco":3500,"quantidade":88}
+    {"nome":"Iphone x","preco":2500,"quantidade":80},
+    {"nome":"Iphone xs","preco":3300,"quantidade":50},
+    {"nome":"Iphone 8","preco":2200,"quantidade":40},
+    {"nome":"Iphone 7","preco":2300,"quantidade":30},
+    {"nome":"Iphone x plus 64gb","preco":3500,"quantidade":88}
 ]
