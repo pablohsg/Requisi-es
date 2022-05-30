@@ -1,0 +1,102 @@
+[
+    {
+        "idPost":"post1",
+        "fotoUsuario":"",
+        "nomeUsuario":"Perfil 1",
+        "porcentagem":"10",
+        "postagem":"Haverá novo auxilio emergencial apartir de julho de 2022, no valor de R$1200,00",
+        "data":"20-05-2022",
+        "comentarios":[
+            {
+                "nomeUsuario":"Perfil 2",
+                "fotoUsuario":"",
+                "data":"20-05-2022",
+                "postagem":"É fake, não haverá nenhum auxilio."
+            },
+            {
+                "nomeUsuario":"Perfil 3",
+                "fotoUsuario":"",
+                "data":"20-05-2022",
+                "postagem":"É fake vi no jornal ontem."
+            },
+            {
+                "nomeUsuario":"Perfil 4",
+                "fotoUsuario":"",
+                "data":"21-05-2022",
+                "postagem":"Facilmente é fake."
+            }
+            
+        ]
+    },
+    {
+        "idPost":"post3",
+        "fotoUsuario":"",
+        "nomeUsuario":"Perfil 3",
+        "porcentagem":"80",
+        "postagem":"Recife suspende São João e destinará R$ 15 milhões para vítimas das chuvas",
+        "comentarios":[
+            
+        ]
+    },
+    {
+        "idPost":"post4",
+        "fotoUsuario":"",
+        "nomeUsuario":"Perfil 4",
+        "porcentagem":"70",
+        "postagem":"França abre investigação sobre morte de jornalista na Ucrânia",
+        "data":"22-05-2022",
+        "comentarios":[
+            
+        ]
+    },
+    {
+        "idPost":"post5",
+        "fotoUsuario":"",
+        "nomeUsuario":"Perfil 1",
+        "porcentagem":"80",
+        "postagem":"Especialistas defendem Dia Nacional do Planejamento Familiar",
+        "data":"24-05-2022",
+        "comentarios":[
+            
+        ]
+    },
+    {
+        "idPost":"post6",
+        "fotoUsuario":"",
+        "nomeUsuario":"Perfil 3",
+        "porcentagem":"80",
+        "postagem":"Jaques Wagner comunica que pegou covid — Senado Notícias",
+        "data":"25-05-2022",
+        "comentarios":[
+            
+        ]
+    },
+    {
+        "idPost":"post2",
+        "fotoUsuario":"",
+        "nomeUsuario":"Perfil 2",
+        "porcentagem":"100",
+        "data":"30-05-2022",
+        "postagem":"Milton Gonçalves morre no Rio aos 88 anos.",
+        "comentarios":[
+            {
+                "nomeUsuario":"Perfil 3",
+                "fotoUsuario":"",
+                "data":"30-05-2022",
+                "postagem":"Infelizmente é verdade, a notícia está em varios jornais."
+            }
+        ]
+    },
+    {
+        "idPost":"post7",
+        "fotoUsuario":"",
+        "nomeUsuario":"Perfil 1",
+        "porcentagem":"80",
+        "postagem":"Dolar caiu para R$4,50",
+        "data":"31-05-2022",
+        "comentarios":[
+            
+        ]
+    }    
+
+]
