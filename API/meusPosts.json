@@ -1,0 +1,53 @@
+[
+	{
+        "idPost":"post1",
+        "fotoUsuario":"https://pablohsg.github.io/Requisicoes/API/imgs/perfil1.jpg",
+        "nomeUsuario":"Perfil 1",
+        "porcentagem":"10",
+        "postagem":"Haverá novo auxilio emergencial apartir de julho de 2022, no valor de R$1200,00",
+        "data":"20-05-2022",
+        "comentarios":[
+            {
+                "nomeUsuario":"Perfil 2",
+                "fotoUsuario":"https://pablohsg.github.io/Requisicoes/API/imgs/perfil2.jpg",
+                "data":"20-05-2022",
+                "postagem":"É fake, não haverá nenhum auxilio."
+            },
+            {
+                "nomeUsuario":"Perfil 3",
+                "fotoUsuario":"https://pablohsg.github.io/Requisicoes/API/imgs/perfil3.jpg",
+                "data":"20-05-2022",
+                "postagem":"É fake vi no jornal ontem."
+            },
+            {
+                "nomeUsuario":"Perfil 4",
+                "fotoUsuario":"https://pablohsg.github.io/Requisicoes/API/imgs/perfil4.jpg",
+                "data":"21-05-2022",
+                "postagem":"Facilmente é fake."
+            }
+            
+        ]
+    },
+    {
+        "idPost":"post5",
+        "fotoUsuario":"https://pablohsg.github.io/Requisicoes/API/imgs/perfil1.jpg",
+        "nomeUsuario":"Perfil 1",
+        "porcentagem":"80",
+        "postagem":"Especialistas defendem Dia Nacional do Planejamento Familiar",
+        "data":"24-05-2022",
+        "comentarios":[
+            
+        ]
+    },
+    {
+        "idPost":"post7",
+        "fotoUsuario":"https://pablohsg.github.io/Requisicoes/API/imgs/perfil1.jpg",
+        "nomeUsuario":"Perfil 1",
+        "porcentagem":"80",
+        "postagem":"Dolar caiu para R$4,50",
+        "data":"31-05-2022",
+        "comentarios":[
+            
+        ]
+    }
+]
